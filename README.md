@@ -1,4 +1,4 @@
-ngram-light
-===========
+earley-light
+============
 
-Lightweight NGram modeling with smoothing without NLTK (includes sentence generation!)
+Lightweight Earley demonstration parser without NTLK -- includes a noun phrase grammar!
